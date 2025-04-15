@@ -76,7 +76,7 @@ python main.py
 - 建議在有扶手或安全支撐的環境下進行運動
 - 如感到不適，請立即停止運動並諮詢醫生
 ## DEMO
-![image](https://github.com/david0932/elderly_fitness_assistant/blob/master/demo/elderly-fitness-assistant.gif?raw=true))
+![image](https://github.com/david0932/elderly_fitness_assistant/blob/master/demo/elderly-fitness-assistant.gif?raw=true)
 ## 授權
 
 本專案採用 MIT 授權條款 - 詳見 LICENSE 文件
