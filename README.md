@@ -77,9 +77,6 @@ python main.py
 - 如感到不適，請立即停止運動並諮詢醫生
 ## DEMO
 ![image](https://github.com/david0932/elderly_fitness_assistant/blob/master/demo/elderly-fitness-assistant.gif?raw=true)
-![video](https://github.com/david0932/elderly_fitness_assistant/blob/master/demo/elderly-fitness-assistant.mp4)
-
-
 
 ## 授權
 
