@@ -75,7 +75,7 @@ python main.py
 - 確保攝像頭可以拍攝到全身
 - 建議在有扶手或安全支撐的環境下進行運動
 - 如感到不適，請立即停止運動並諮詢醫生
-#DEMO
+## DEMO
 ![image](./demo/elderly-fitness-assistant.gif)
 ## 授權
 
